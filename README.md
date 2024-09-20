@@ -1,6 +1,6 @@
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com/?color=BD71FA&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Caique++Rodrigues+Diniz;I'm+20+years+old;I+am+from+Guaianases,+SP;Welcome!&https://git.io/typing-svg"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=BD71FA&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Caique++Rodrigues+Diniz;I+am+from+São+Paulo,+SP;Welcome!&https://git.io/typing-svg"/>
 <hr>
 <h2>STACKS::</h2>
 
