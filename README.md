@@ -13,6 +13,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caique0Og&size=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA)![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caique0Og&layout=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caique0Og&size=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA)  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caique0Og&layout=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Caique0Og&bg=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
