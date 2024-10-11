@@ -18,3 +18,5 @@
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique0Og&size_weight=0.5&count_weight=0.5&theme=dark)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Caique0Og&bg_color=0d1117&color=00bfff&line=e0ffff&point=f4faf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
