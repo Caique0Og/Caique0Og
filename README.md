@@ -2,7 +2,7 @@
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com/?color=BD71FA&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Caique++Rodrigues+Diniz;I+am+from+São+Paulo,+SP;Welcome!&https://git.io/typing-svg"/>
 <hr>
-<h2>STACKS::</h2>
+<h2>STACKS:</h2>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -12,11 +12,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)
-<hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caique0Og&size_weight=true&theme=dark)
-<hr>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caique0Og&size=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA)![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caique0Og&layout=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique0Og&size_weight=0.5&count_weight=0.5&theme=dark)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Caique0Og&bg_color=0d1117&color=00bfff&line=e0ffff&point=f4faf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Caique0Og&bg=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
