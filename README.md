@@ -30,9 +30,19 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
+## ⏱️ Coding Time
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username==Caique0Og&show_icons=true&bg_color=00000000)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Caique0Og&layout=donut&langs_count=8&bg_color=0d1117&title_color=BD71FA&text_color=BD71FA" width="300"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caique0Og&theme=github_dark" width="450"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caique0Og&layout=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Caique0Og&bg=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🏆 Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=Caique0Og&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+## 📈 Activity Graph
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Caique0Og&bg_color=0d1117&color=BD71FA&line=BD71FA&point=BD71FA&area=true&hide_border=true)
+
+
