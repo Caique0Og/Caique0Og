@@ -33,7 +33,6 @@
 ## ⏱️ Coding Time
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Caique0Og&layout=donut&langs_count=8&bg_color=0d1117&title_color=BD71FA&text_color=BD71FA" width="300"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caique0Og&theme=github_dark" width="450"/>
 </p>
 
